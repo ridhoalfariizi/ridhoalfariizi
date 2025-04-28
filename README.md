@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 Hi there, I'm Muhamad Ridho Alfarizi ✨
-🎓 Informatics Engineering Student at Universitas Banten Jaya
-👨‍💻 Passionate about Frontend Web Development and Data Analysis
+  <p>🎓 Informatics Engineering Student at Universitas Banten Jaya
+👨‍💻 Passionate about Frontend Web Development and Data Analysis </p>
 
 </div>
 🚀 Current Focus
