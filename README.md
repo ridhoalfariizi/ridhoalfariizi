@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
   <h1>Hi there, I'm Muhamad Ridho Alfarizi ✨</h1>
 
@@ -11,23 +11,24 @@
 
 ## 🚀 Current Focus
 
-- 📚 I’m currently honing my skills in frontend development, backend fundamentals, and data analysis.
-- 📝 I have basic experience in building responsive websites using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Tailwind CSS**.
-- 🧠 Currently learning backend development with **PHP** (CodeIgniter & Laravel) and database management using **MySQL**.
-- 🏅 Actively involved in campus organizations to improve leadership, teamwork, and project management skills.
+- 📚 Sharpening my skills in frontend development, backend fundamentals, and data analysis.
+- 🖥️ Building responsive websites using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Tailwind CSS**.
+- 🧠 Exploring backend technologies with **PHP**, **CodeIgniter**, and **Laravel**.
+- 🗄️ Practicing database management with **MySQL**.
+- 🏆 Growing leadership and collaboration skills through campus organizations.
 
 ---
 
 ## 🌐 Find Me Online
 
-- 📫 Email: [alfariziridho362@gmail.com](mailto:alfariziridho362@gmail.com)
-- 🌐 LinkedIn: [Muhamad Ridho Alfarizi](https://www.linkedin.com/in/muhamadridhoalfarizi/)
+- 📧 Email: [alfariziridho362@gmail.com](mailto:alfariziridho362@gmail.com)
+- 💼 LinkedIn: [Muhamad Ridho Alfarizi](https://www.linkedin.com/in/muhamadridhoalfarizi/)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Markup & Programming Languages
+### 🚀 Languages & Markup
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -62,7 +63,7 @@
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoalfarizi&theme=dark" alt="GitHub Streak"/>
@@ -72,8 +73,8 @@
 
 ---
 
-## ✨ Let's Grow Together!
+## ✨ Let's Keep Growing and Building!
 
-> **"Keep learning, keep building, and keep moving forward in the world of technology."**
+> **"Consistency beats talent when talent doesn’t work hard."**
 
 ---
