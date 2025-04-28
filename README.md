@@ -4,6 +4,7 @@ Hi there, I'm Muhamad Ridho Alfarizi ✨
 👨‍💻 Passionate about Frontend Web Development and Data Analysis
 
 </div>
+<br>
 🚀 Current Focus
 📚 I’m currently honing my skills in frontend development, backend fundamentals, and data analysis.
 
